@@ -1,0 +1,67 @@
+{
+  "name": "c3cbot",
+  "version": "0.6.0",
+  "description": "A customizable bot that runs on Facebook and Discord.",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "npm run lint",
+    "start": "node index.js",
+    "lint": "./node_modules/.bin/eslint **.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/c3cbot/c3c-0x.git"
+  },
+  "keywords": [
+    "C\u001b[6~3C",
+    "C3C"
+  ],
+  "author": "BadAimWeeb",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/c3cbot/c3c-0x/issues"
+  },
+  "homepage": "https://github.com/c3cbot/c3c-0x#readme",
+  "dependencies": {
+    "@discordjs/opus": "^0.1.0",
+    "@tensorflow/tfjs": "^3.1.0",
+    "adm-zip": "^0.4.16",
+    "bufferutil": "^4.0.1",
+    "deasync": "^0.1.19",
+    "discord.js": "^12.1.1",
+    "erlpack": "^0.1.3",
+    "fca-unofficial": "^1.3.10",
+    "ffmpeg-static": "^4.2.5",
+    "form-data": "^3.0.0",
+    "jimp": "^0.9.8",
+    "js-yaml": "^3.13.1",
+    "libsodium-wrappers": "^0.7.6",
+    "node-fetch": "^2.6.2",
+    "node-stream-zip": "^1.11.2",
+    "nsfwjs": "^2.1.0",
+    "opusscript": "^0.0.7",
+    "request": "^2.88.0",
+    "rimraf": "^3.0.2",
+    "semver": "^7.1.1",
+    "socket.io-client": "^3.1.0",
+    "socks": "^2.4.1",
+    "speakeasy": "^2.0.0",
+    "spotifydl-core": "^0.2.0",
+    "ssh2": "^0.8.9",
+    "stream-buffers": "^3.0.2",
+    "string.prototype.replaceall": "^1.0.3",
+    "strip-bom": "^4.0.0",
+    "sync-request": "^6.1.0",
+    "tar-stream": "^2.1.2",
+    "utf-8-validate": "^5.0.2",
+    "wait-for-stuff": "^1.4.0",
+    "zlib-sync": "^0.1.7"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0"
+  },
+  "engines": {
+    "node": ">=12"
+  }
+}

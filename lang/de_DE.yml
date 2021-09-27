@@ -1,0 +1,23 @@
+UNKNOWN_CMD: "Falscher Befehl. Verwenden Sie die {0}help, um alle verfügbaren Befehle anzuzeigen."
+UNKNOWN_CMD_DIDYOUMEAN: "Wollten Sie {0} verwenden?"
+UNSUPPORTED_INTERFACE: "Entschuldigung, aber dieser Befehl wird in dieser Schnittstelle nicht unterstützt."
+HELP_ARGS: "[Seite]"
+HELP_DESC: "Eine Anleitung zu Befehlen hier."
+HELP_OUTPUT_PREFIX: "Befehlsliste:"
+PAGE: Seite
+RESTART_DESC: "Starten Sie den Bot neu."
+SHUTDOWN_DESC: "Schalten Sie den Bot vollständig aus."
+INSUFFICIENT_PERM: "Unzureichende Erlaubnis."
+PLUGINS_DESC: "Liste aller auf diesem Bot installierten plugins."
+PLUGINS_OUTPUT_PREFIX: "Plugin-Liste:"
+RELOAD_DESC: "Laden Sie alle plugins neu."
+VERSION_DESC: "Derzeit laufende Bot-Version anzeigen."
+CONNECTED_MESSAGE: "Verwenden Sie die {0}help [Seitenzahl], um eine Liste der Befehle anzuzeigen."
+ENABLED: aktiviert
+DISABLED: behindert
+HELP_MORE_INFO: "Geben Sie `{0}help [Befehl]` ein, um weitere Informationen zu diesem Befehl zu erhalten."
+HELP_ARG_INFO: "\r\n<>: erforderlich\r\n[]: nicht erforderlich"
+HELP_CMD_NOT_FOUND: "Befehl nicht gefunden"
+TOGGLEEVERYONE_MSG: "Erfolgreich {0} alle erwähnen Tag in diesem Thread!"
+TEVERYONE_DESC: "Schalten Sie alle Tags ein/aus"
+LANG_DESC: "Ändern Sie die Feedback-Sprache des Bots"

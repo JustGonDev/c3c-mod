@@ -1,0 +1,23 @@
+UNKNOWN_CMD: "Wrong command. Use {0}help to display all commands available."
+UNKNOWN_CMD_DIDYOUMEAN: "Did you mean to use {0}?"
+UNSUPPORTED_INTERFACE: "Sorry, but that command is not supported in this interface."
+HELP_ARGS: "[page]"
+HELP_DESC: "A guide to commands in here."
+HELP_OUTPUT_PREFIX: "Command list:"
+PAGE: Page
+RESTART_DESC: "Restart the bot."
+SHUTDOWN_DESC: "Turn off completely the bot."
+INSUFFICIENT_PERM: "Insufficient permission."
+PLUGINS_DESC: "List all plugins installed on this bot."
+PLUGINS_OUTPUT_PREFIX: "Plugin list:"
+RELOAD_DESC: "Reload all plugins."
+VERSION_DESC: "View bot version currently running."
+CONNECTED_MESSAGE: "Use `{0}help [page number]` to see a list of commands."
+ENABLED: enabled
+DISABLED: disabled
+HELP_MORE_INFO: "Type `{0}help [command]` to get more info about that command."
+HELP_ARG_INFO: "\r\n<>: required\r\n[]: not required"
+HELP_CMD_NOT_FOUND: "Command not found"
+TOGGLEEVERYONE_MSG: "Successfully {0} everyone mention tag on this thread!"
+TEVERYONE_DESC: "Turn on/off everyone mention tag"
+LANG_DESC: "Change bot's feedback language"

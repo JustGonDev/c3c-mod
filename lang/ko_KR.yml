@@ -1,0 +1,23 @@
+UNKNOWN_CMD: "잘못된 명령입니다. 사용 가능한 모든 명령을 표시하려면 {0}help 를사용하십시오."
+UNKNOWN_CMD_DIDYOUMEAN: "{0}을 (를) 사용 하시겠습니까?"
+UNSUPPORTED_INTERFACE: "죄송하지만이 인터페이스에서는 해당 명령이 지원되지 않습니다."
+HELP_ARGS: "[페이지]"
+HELP_DESC: "여기에있는 명령에 대한 안내서입니다."
+HELP_OUTPUT_PREFIX: "명령 목록:"
+PAGE: 페이지
+RESTART_DESC: "봇을 다시 시작하십시오."
+SHUTDOWN_DESC: "봇을 완전히 끕니다."
+INSUFFICIENT_PERM: "권한이 충분하지 않습니다."
+PLUGINS_DESC: "이 봇에 설치된 모든 플러그인 목록."
+PLUGINS_OUTPUT_PREFIX: "플러그인 목록:"
+RELOAD_DESC: "모든 플러그인을 다시로드하십시오."
+VERSION_DESC: "봇의 현재 실행중인 버전을 봅니다."
+CONNECTED_MESSAGE: "`{0}help [페이지 번호]`를 사용하여 명령 목록을보십시오."
+ENABLED: 가능
+DISABLED: 비활성화
+HELP_MORE_INFO: "해당 명령에 대한 자세한 정보를 얻으려면`{0}help [명령]`를 입력하십시오."
+HELP_ARG_INFO: "\r\n<>: 필수\r\n[]: 필요하지 않습니다"
+HELP_CMD_NOT_FOUND: "명령어를 찾을수 없음"
+TOGGLEEVERYONE_MSG: "{0} 님이이 스레드에서 태그를 언급했습니다!"
+TEVERYONE_DESC: "모든 사람이 태그를 언급하는 기능 켜기/끄기"
+LANG_DESC: "봇의 피드백 언어 변경"

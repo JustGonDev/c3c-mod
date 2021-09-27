@@ -1,0 +1,23 @@
+UNKNOWN_CMD: "命令錯誤。使用{0}help 顯示所有可用命令。"
+UNKNOWN_CMD_DIDYOUMEAN: "您是要使用{0}嗎？"
+UNSUPPORTED_INTERFACE: "抱歉，此接口不支持該命令。"
+HELP_ARGS: "[頁]"
+HELP_DESC: "這裡的命令指南。"
+HELP_OUTPUT_PREFIX: "命令清單："
+PAGE: 頁
+RESTART_DESC: "重新啟動機器人。"
+SHUTDOWN_DESC: "完全關閉漫遊器。"
+INSUFFICIENT_PERM: "權限不足"
+PLUGINS_DESC: "該機器人上安裝的所有插件的列表。"
+PLUGINS_OUTPUT_PREFIX: "插件列表："
+RELOAD_DESC: "重新加載所有插件。"
+VERSION_DESC: "查看該機器人當前正在運行的版本。"
+CONNECTED_MESSAGE: "使用`{0}help [頁碼]`查看命令列表。"
+ENABLED: 已啟用
+DISABLED: 殘障人士
+HELP_MORE_INFO: "輸入`{0}help [命令]`以獲取有關該命令的更多信息。"
+HELP_ARG_INFO: "\r\n<>：必填\r\n[]：不需要"
+HELP_CMD_NOT_FOUND: "沒有找到指令"
+TOGGLEEVERYONE_MSG: "成功{0}所有人在此線程上提及標籤！"
+TEVERYONE_DESC: "開啟/關閉所有人提及標籤"
+LANG_DESC: "更改漫遊器的反饋語言"

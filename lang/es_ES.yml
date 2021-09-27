@@ -1,0 +1,23 @@
+UNKNOWN_CMD: "Comando equivocado. Utilice la {0}help para mostrar todos los comandos disponibles."
+UNKNOWN_CMD_DIDYOUMEAN: "¿Querías usar {0}?"
+UNSUPPORTED_INTERFACE: "Lo sentimos, pero ese comando no es compatible con esta interfaz."
+HELP_ARGS: "[página]"
+HELP_DESC: "Una guía de comandos aquí."
+HELP_OUTPUT_PREFIX: "Lista de comandos:"
+PAGE: Página
+RESTART_DESC: "Reinicia el bot."
+SHUTDOWN_DESC: "Apaga completamente el bot."
+INSUFFICIENT_PERM: "Permiso insuficiente."
+PLUGINS_DESC: "Lista todos los complementos instalados en este bot."
+PLUGINS_OUTPUT_PREFIX: "Lista de complementos:"
+RELOAD_DESC: "Vuelva a cargar todos los complementos."
+VERSION_DESC: "Ver la versión del bot actualmente en ejecución."
+CONNECTED_MESSAGE: "Use `{0}help [número de página]` para ver una lista de comandos."
+ENABLED: habilitada (habilitadp)
+DISABLED: deshabilitada (deshabilitado)
+HELP_MORE_INFO: "Escriba `{0}help [la orden]` para obtener más información sobre ese comando."
+HELP_ARG_INFO: "\r\n<>: requerido\r\n[]: no requerido"
+HELP_CMD_NOT_FOUND: "Comando no encontrado"
+TOGGLEEVERYONE_MSG: "¡Con éxito {0} todas (todos) mencionan la etiqueta en este hilo!"
+TEVERYONE_DESC: "Activar/desactivar la etiqueta de mención de todos"
+LANG_DESC: "Cambiar el idioma de comentarios del bot"

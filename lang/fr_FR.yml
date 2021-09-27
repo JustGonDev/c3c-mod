@@ -1,0 +1,23 @@
+UNKNOWN_CMD: "Mauvaise commande. Utilisez l'aide {0}help pour afficher toutes les commandes disponibles."
+UNKNOWN_CMD_DIDYOUMEAN: "Vouliez-vous utiliser {0}?"
+UNSUPPORTED_INTERFACE: "Désolé, mais cette commande n'est pas prise en charge dans cette interface."
+HELP_ARGS: "[page]"
+HELP_DESC: "Un guide des commandes ici."
+HELP_OUTPUT_PREFIX: "Liste des commandes:"
+PAGE: Page
+RESTART_DESC: "Redémarrez le bot."
+SHUTDOWN_DESC: "Éteignez complètement le bot."
+INSUFFICIENT_PERM: "Permission insuffisante."
+PLUGINS_DESC: "Liste de tous les plugins installés sur ce bot."
+PLUGINS_OUTPUT_PREFIX: "Liste des plugins:"
+RELOAD_DESC: "Rechargez tous les plugins."
+VERSION_DESC: "Afficher la version du bot en cours d'exécution."
+CONNECTED_MESSAGE: "Utilisez `{0}help [numéro de page]` pour voir une liste de commandes."
+ENABLED: activée (activé)
+DISABLED: désactivé
+HELP_MORE_INFO: "Tapez `{0}help [commander]` pour obtenir plus d'informations sur cette commande."
+HELP_ARG_INFO: "\r\n<>: requis\r\n[]: non requis"
+HELP_CMD_NOT_FOUND: "Commande non trouvée"
+TOGGLEEVERYONE_MSG: "Avec succès {0} tout le monde mentionne la balise sur ce fil!"
+TEVERYONE_DESC: "Activer/désactiver tout le monde mentionne la balise"
+LANG_DESC: "Changer la langue des commentaires du bot"
