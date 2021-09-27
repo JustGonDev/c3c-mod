@@ -1,0 +1,9 @@
+{
+    "help1": "EDIT THE OPENWEATHERMAP API KEYS: [\"api key 1\", \"api key 2\"]",
+    "help2": "LEAVING API KEYS AS AN EMPTY ARRAY WILL RESULT IN ERROR!",
+    "apiKeys": [
+        "d4e144676bd7c0e0c3c3897ff9708da9",
+        "c60fccb7b772138838b88a0bb815d175",
+        "c3f985796a573f3d8f491817e7b03a63"
+    ]
+}

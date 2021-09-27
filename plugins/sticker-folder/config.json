@@ -1,0 +1,112 @@
+{
+     "settings": {
+          "enableImages": true
+     },
+     "images": {
+          "1": {
+               "filepath": "1",
+               "message": ""
+          },
+          "2": {
+               "filepath": "2",
+               "message": ""
+          },
+          "3": {
+               "filepath": "3",
+               "message": ""
+          },
+          "4": {
+               "filepath": "4",
+               "message": ""
+          },
+          "5": {
+               "filepath": "5",
+               "message": ""
+          },
+          "6": {
+               "filepath": "6",
+               "message": ""
+          },
+          "7": {
+               "filepath": "7",
+               "message": ""
+          },
+          "8": {
+               "filepath": "8",
+               "message": ""
+          },
+          "9": {
+               "filepath": "9",
+               "message": ""
+          },
+          "10": {
+               "filepath": "10",
+               "message": ""
+          },
+          "11": {
+               "filepath": "11",
+               "message": ""
+          },
+          "12": {
+               "filepath": "12",
+               "message": ""
+          },
+          "13": {
+               "filepath": "13",
+               "message": ""
+          },
+          "14": {
+               "filepath": "14",
+               "message": ""
+          },
+          "15": {
+               "filepath": "15",
+               "message": ""
+          },
+          "16": {
+               "filepath": "16",
+               "message": ""
+          },
+          "17": {
+               "filepath": "17",
+               "message": ""
+          },
+          "18": {
+               "filepath": "18",
+               "message": ""
+          },
+          "19": {
+               "filepath": "19",
+               "message": ""
+          },
+          "20": {
+               "filepath": "20",
+               "message": ""
+          },
+          "21": {
+               "filepath": "21",
+               "message": ""
+          },
+          "22": {
+               "filepath": "22",
+               "message": ""
+          },
+          "23": {
+               "filepath": "23",
+               "message": ""
+          },
+          "24": {
+               "filepath": "24",
+               "message": ""
+          }
+     },
+     "message": {
+          "noSubCommand": "Hãy dùng lệnh /send sticker",
+          "wrongSubCommand": "Lỗi lệnh @@"
+     },
+     "help": {
+          "HELP1": [
+               "Image type must be .jpg"
+          ]
+     }
+}
