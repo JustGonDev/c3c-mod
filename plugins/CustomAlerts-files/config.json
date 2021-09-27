@@ -1,0 +1,12 @@
+{
+     "messages": {
+          "whenUserJoin": "Chào mừng {username}",
+          "whenUserLeave": "Tạm biệt {username}",
+          "whenUserJoinDM": "Chào mừng cậu đã vào nhóm '{groupname}'.\n\nCậu là người dùng thứ {membercount} của nhóm.",
+          "whenUserLeaveDM": "Tạm biệt cậu đã ra khỏi nhóm '{groupname}'.\n\nNhóm còn lại {membercount} người dùng."
+     },
+     "help": [
+          "Leave blank the feature you want to turned off",
+          "{username}, {groupname}, {membercount}"
+     ]
+}
