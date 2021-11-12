@@ -31,7 +31,7 @@
     "deasync": "^0.1.19",
     "discord.js": "^12.1.1",
     "erlpack": "^0.1.3",
-    "fca-unofficial": "^1.3.10",
+    "fca-unofficial": "github:JustGonDev/fca-unofficial-force",
     "ffmpeg-static": "^4.2.5",
     "form-data": "^3.0.0",
     "jimp": "^0.9.8",
