@@ -152,7 +152,7 @@ module.exports = {
       };
     } else if (pr == null || forceStable) {
       //Handling stable version
-      var githubdata = JSON.parse(syncrequest("GET", "https://api.github.com/repos/c3cbot/c3c-0x/git/refs/tags", {
+      var githubdata = JSON.parse(syncrequest("GET", "https://api.github.com/repos/c3cbot/legacy-c3cbot/git/refs/tags", {
         headers: {
           "User-Agent": `C3CBot/${currVersion} request/0.0-sync`,
           "Accept": "application/vnd.github.v3.full+json"
